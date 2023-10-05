@@ -1,4 +1,4 @@
-package Task__1;
+package OOP_Task_1;
 
 public class User {
     private String login;
